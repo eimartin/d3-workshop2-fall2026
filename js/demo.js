@@ -112,13 +112,13 @@ onRaceChange(race => {
             .attr('cy', startY);
     // startLabel is a text, we need to define x and y
     //check if this should be startLabel
-    startDot.transition().duration(duration).attr('x', startX)
+    startLabel.transition().duration(duration).attr('x', startX)
               .attr('y', startY);
     
     // Update the aria-label of the svg with the race name
     svg.attr('aria-label', `Track outline of the ${race.label}`);
     replayDot.interrupt().attr('opacity', 0);
-    duration
+    duration=750;
 });
 
 
