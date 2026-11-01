@@ -69,7 +69,7 @@ git push
 ## Your answers
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
-
+DOO at the Japanese Grand Prix differed the most from the winner's strategy. The chart shows the type of tire they used (by color of bar) and also when in the race they changed tires. DOO used soft and then hard tires, switching at lap 15. The winner used medium and then hard and did not switch tires until lap 20.
 >
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
